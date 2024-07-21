@@ -1,2 +1,0 @@
-[build]
-  publish = "."  # Points to the root directory where your HTML, CSS, and JS files are located
