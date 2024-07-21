@@ -1,8 +1,2 @@
 [build]
-  command = "npm run build"  # Your specific build command
-  publish = "build"          # Ensure this matches your output directory
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+  publish = "."  # Points to the root directory where your HTML, CSS, and JS files are located
